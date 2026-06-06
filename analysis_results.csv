@@ -1,9 +1,0 @@
-asset_data	asset	type	country	initial_price	current_price	amount	%allocation	annual_return_%	dividend_yield_%	total_returns_%	risk_adjusted_score	risk_(low/med/high)	return	allocation	cumulative_return
-Vasili Africa	Zimele	Fixed income fund	Kenya	100000	110500	100000	10%	11%	0	11%	11%	Low (1)	0.105	0.1	1.105
-Vasili Africa	Kuza USD	Money market fund	USA	132000	138000	132000	13%	5%	0	5%	5%	Low (1)	0.045454545	0.132	1.155227273
-Mansa X Factsheet	Mansa X	Special fund	Multiple regions	250000	298000	250000	25%	19%	0	19%	10%	Medium (2)	0.192	0.25	1.377030909
-portal.vuka.co.ke	Acorn I-REIT	Real estate investment trust	Kenya	22.91	23.75	60000	6%	4%	3%	6%	3%	Medium (2)	0.036665212	0.06	1.427520039
-www.sc.com	EUR CIO ACC Growth fund	Exchange traded fund	Multiple regions	107.37	131.75	152000	15%	23%	0	23%	11%	Medium (2)	0.227065288	0.152	1.751660288
-Luno app	Ethereum	Crypto currency	Decentralized	1738	2358	46000	5%	36%	0	36%	12%	High (3)	0.356731876	0.046	2.376533348
-Google finance, Tradingview	Safaricom	Stock	Kenya	15.85	29.85	60000	6%	88%	7%	95%	32%	High (3)	0.883280757	0.06	4.475679523
-THE METROPOLITAN SHOPPER	Kajiado	Land	Kenya	200000	212000	200000	20%	6%	0	6%	6%	Low (1)	0.06	0.2	4.744220295
